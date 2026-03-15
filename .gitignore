@@ -36,6 +36,9 @@ Release/
 *.atsuo
 *.cproj.user
 *.suo
+*.atsln
+*.componentinfo.xml
+*.cproj
 
 # Môi trường Eclipse / STM32CubeIDE
 .metadata/
