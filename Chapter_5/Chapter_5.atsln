@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "serialLoopBack", "serialLoopBack\serialLoopBack.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Test_transmitting", "Test_transmitting\Test_transmitting.cproj", "{18CF7107-427E-4AEF-884A-8C95AD346BA3}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Test_serial_interrupt", "Test_serial_interrupt\Test_serial_interrupt.cproj", "{9AD53B04-F176-4ED2-9265-BA3F727A7834}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "serialOrgan", "serialOrgan\serialOrgan.cproj", "{1AEE23E5-04EE-42F8-AC48-BBD68800DA9E}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Simualtion_test", "Simualtion_test\Simualtion_test.cproj", "{4E295A74-87B3-4B1B-BC5D-AEAB373EE4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{18CF7107-427E-4AEF-884A-8C95AD346BA3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{18CF7107-427E-4AEF-884A-8C95AD346BA3}.Debug|AVR.Build.0 = Debug|AVR
+		{18CF7107-427E-4AEF-884A-8C95AD346BA3}.Release|AVR.ActiveCfg = Release|AVR
+		{18CF7107-427E-4AEF-884A-8C95AD346BA3}.Release|AVR.Build.0 = Release|AVR
+		{9AD53B04-F176-4ED2-9265-BA3F727A7834}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9AD53B04-F176-4ED2-9265-BA3F727A7834}.Debug|AVR.Build.0 = Debug|AVR
+		{9AD53B04-F176-4ED2-9265-BA3F727A7834}.Release|AVR.ActiveCfg = Release|AVR
+		{9AD53B04-F176-4ED2-9265-BA3F727A7834}.Release|AVR.Build.0 = Release|AVR
+		{1AEE23E5-04EE-42F8-AC48-BBD68800DA9E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1AEE23E5-04EE-42F8-AC48-BBD68800DA9E}.Debug|AVR.Build.0 = Debug|AVR
+		{1AEE23E5-04EE-42F8-AC48-BBD68800DA9E}.Release|AVR.ActiveCfg = Release|AVR
+		{1AEE23E5-04EE-42F8-AC48-BBD68800DA9E}.Release|AVR.Build.0 = Release|AVR
+		{4E295A74-87B3-4B1B-BC5D-AEAB373EE4CD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4E295A74-87B3-4B1B-BC5D-AEAB373EE4CD}.Debug|AVR.Build.0 = Debug|AVR
+		{4E295A74-87B3-4B1B-BC5D-AEAB373EE4CD}.Release|AVR.ActiveCfg = Release|AVR
+		{4E295A74-87B3-4B1B-BC5D-AEAB373EE4CD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
