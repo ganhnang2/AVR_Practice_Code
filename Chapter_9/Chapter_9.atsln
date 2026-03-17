@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "reactionTimer", "reactionTimer\reactionTimer.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "timerDelay", "timerDelay\timerDelay.cproj", "{CE1A34CE-C7DB-4CE7-8491-783AF2196303}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "waveformGeneratorByCTC", "waveformGeneratorByCTC\waveformGeneratorByCTC.cproj", "{61389533-8D80-4DD1-B86E-25582F4E0C4E}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "timerInputCapture", "timerInputCapture\timerInputCapture.cproj", "{A35CFCE9-5660-4F25-ADF5-6C7CF9B33958}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "avrOrganByWaveformGenerator", "avrOrganeByWaveformGenerator\avrOrganByWaveformGenerator.cproj", "{4F0EE4AF-424C-413E-8959-14AAF8BF23D3}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "avrOrgane_ver2_CTCmode", "avrOrgane_ver2_CTCmode\avrOrgane_ver2_CTCmode.cproj", "{B9F76034-2333-4F2E-8453-A371FECA5D64}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "amRadio", "amRadio\amRadio.cproj", "{960F8A09-BE24-4071-96F9-8349C2DBF4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{CE1A34CE-C7DB-4CE7-8491-783AF2196303}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CE1A34CE-C7DB-4CE7-8491-783AF2196303}.Debug|AVR.Build.0 = Debug|AVR
+		{CE1A34CE-C7DB-4CE7-8491-783AF2196303}.Release|AVR.ActiveCfg = Release|AVR
+		{CE1A34CE-C7DB-4CE7-8491-783AF2196303}.Release|AVR.Build.0 = Release|AVR
+		{61389533-8D80-4DD1-B86E-25582F4E0C4E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{61389533-8D80-4DD1-B86E-25582F4E0C4E}.Debug|AVR.Build.0 = Debug|AVR
+		{61389533-8D80-4DD1-B86E-25582F4E0C4E}.Release|AVR.ActiveCfg = Release|AVR
+		{61389533-8D80-4DD1-B86E-25582F4E0C4E}.Release|AVR.Build.0 = Release|AVR
+		{A35CFCE9-5660-4F25-ADF5-6C7CF9B33958}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A35CFCE9-5660-4F25-ADF5-6C7CF9B33958}.Debug|AVR.Build.0 = Debug|AVR
+		{A35CFCE9-5660-4F25-ADF5-6C7CF9B33958}.Release|AVR.ActiveCfg = Release|AVR
+		{A35CFCE9-5660-4F25-ADF5-6C7CF9B33958}.Release|AVR.Build.0 = Release|AVR
+		{4F0EE4AF-424C-413E-8959-14AAF8BF23D3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4F0EE4AF-424C-413E-8959-14AAF8BF23D3}.Debug|AVR.Build.0 = Debug|AVR
+		{4F0EE4AF-424C-413E-8959-14AAF8BF23D3}.Release|AVR.ActiveCfg = Release|AVR
+		{4F0EE4AF-424C-413E-8959-14AAF8BF23D3}.Release|AVR.Build.0 = Release|AVR
+		{B9F76034-2333-4F2E-8453-A371FECA5D64}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B9F76034-2333-4F2E-8453-A371FECA5D64}.Debug|AVR.Build.0 = Debug|AVR
+		{B9F76034-2333-4F2E-8453-A371FECA5D64}.Release|AVR.ActiveCfg = Release|AVR
+		{B9F76034-2333-4F2E-8453-A371FECA5D64}.Release|AVR.Build.0 = Release|AVR
+		{960F8A09-BE24-4071-96F9-8349C2DBF4B9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{960F8A09-BE24-4071-96F9-8349C2DBF4B9}.Debug|AVR.Build.0 = Debug|AVR
+		{960F8A09-BE24-4071-96F9-8349C2DBF4B9}.Release|AVR.ActiveCfg = Release|AVR
+		{960F8A09-BE24-4071-96F9-8349C2DBF4B9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
